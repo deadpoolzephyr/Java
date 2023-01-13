@@ -1,0 +1,22 @@
+satir sayisi: 2
+kelime sayisi: 4
+rakam sayisi: 8
+buyuk harfle baslayan kelime sayisi: 2
+bosluk sayisi: 2
+frekanslar:
+<n> = 2
+<y> = 2
+<p> = 1
+<u> = 4
+<g> = 1
+<l> = 3
+<a> = 9
+<m> = 2
+<s> = 3
+<i> = 3
+<b> = 2
+<r> = 2
+<t> = 1
+<v> = 1
+<c> = 1
+<d> = 1
